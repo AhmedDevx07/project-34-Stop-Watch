@@ -38,10 +38,13 @@ Track time precisely with **Start, Pause, Reset, and Lap** functionalities — a
 
 ---
 
-## 👨‍💻 Developed By
+  ## 👨‍💻 Author
 
-**Muhammad Ahmed**
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-ahmed-dev07/)
-🌍 [GitHub](https://github.com/Ahmed-devx)
+**Muhammad Ahmed (AhmedDevx07)**
+🚀 Full Stack MERN Developer
+🎨 Passionate about Modern UI/UX & Scalable Web Apps
 
----
+### 🌐 Connect With Me
+
+* 🐙 GitHub: https://github.com/AhmedDevx07
+* 💼 LinkedIn: https://linkedin.com/in/ahmeddevx07
